@@ -11,9 +11,15 @@ body {
 	font-family: 'Montserrat', sans-serif;
 }
 
-/* i {
-	color: rgb(234, 255, 0);
-} */
+i {
+	color: rgb(231, 236, 183);
+	padding-left: 2px;
+}
+
+.thunder-icons i {
+	display: block;
+	line-height: 2;
+}
 
 h1 {
 	padding-top: 30px;
